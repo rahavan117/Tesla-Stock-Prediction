@@ -90,12 +90,12 @@ Make sure "Tesla.csv" is in the same folder as the notebook.
 
 Project Structure
 
-Tesla-Stock-Prediction/
-│
-├── Tesla_Stock_Prediction.ipynb
-├── Tesla.csv
-├── README.md
-└── requirements.txt
+Tesla-Stock-Prediction
+
+- Tesla_Stock_Prediction.ipynb
+- Tesla.csv
+- README.md
+- requirements.txt
 
 Conclusion
 
